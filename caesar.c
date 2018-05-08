@@ -1,3 +1,7 @@
+// Ceasar is a very basic encryption program. User inputs a number and a message, 
+// and each letter of the message has it's ascii value changed by the number input. 
+// For example, inputs of "1" and "abc" would output "bcd".
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
