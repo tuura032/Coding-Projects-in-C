@@ -1,3 +1,5 @@
+// Cash functions like a bank teller. Input the change owed, and the returned value is the minimum # of coins given to the buyer.
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>
