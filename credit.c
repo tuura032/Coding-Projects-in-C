@@ -1,3 +1,5 @@
+// Credit works to detect if a credit card number is valid, and then determines what type of credit card it is (VISA, AMEX, Mastercard)
+
 #include <cs50.h>
 #include <math.h>
 #include <stdio.h>
