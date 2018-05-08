@@ -1,3 +1,7 @@
+// more complicated encyrption than Caesar, Vigenere asks for a string input (the cipher).
+//The input message has it's ascii value modified by the ascii value of each letter of the string cipher,
+// and repeats until the entire message is encoded.
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
