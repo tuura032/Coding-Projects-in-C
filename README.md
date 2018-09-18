@@ -17,6 +17,6 @@ Recover converts a raw data file of jpgs (in binary) and re-creates the .jpg fil
 Risize resizes a BMP file.
 
 Dictionary implements a few functions used within Speller. Speller loads text from a file. Dictionary loads a dictionary into a hash table
-and searches the dictionary for each word from speller to identify words that are spelled incorrectly.
+and searches the dictionary for each word from speller to identify words that are spelled incorrectly. (I did not write speller, but it is included for context.)
 
 
