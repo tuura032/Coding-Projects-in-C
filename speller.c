@@ -1,4 +1,5 @@
-// Implements a spell-checker
+// Implements a spell-checker, associated with dictionary.c
+// I did not write speller, but I did write the functions check, load, unload, and wordcount in dictionary.c
 
 #include <ctype.h>
 #include <stdio.h>
