@@ -1,4 +1,8 @@
 // Implements a dictionary's functionality
+// helper functions for speller.c
+// Loads a dictionary into a hash table and then checks the spelling of a word in a document to determine if it is speller properly.
+// The associated program, speller.c, returns not only misspelled words, but also how  quickly "check" can iterate through my hash
+// for each word in the document being checked.
 
 #include <stdbool.h>
 #include <cs50.h>
